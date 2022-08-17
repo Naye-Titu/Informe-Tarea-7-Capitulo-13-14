@@ -53,5 +53,26 @@ CAPÍTULO 14: TRASNFORMADORES
 
 ![image](https://user-images.githubusercontent.com/105722861/185030077-18250606-0bff-4e7d-9c88-e7a5ea42839e.png)
 
+![image](https://user-images.githubusercontent.com/105722861/185032758-ee122847-dd6d-45d6-b09d-9d40ef6922f7.png)
+
+3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+-------------------------------------------------------------------------------------------------------
+CAPÍTULO 13
+-------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------
+CAPÍTULO 14
+-------------------------------------------------------------------------------------------------------
+
+4.- VIDEO
+
+5.- CONCLUSIONES
+
+6.- BIBLIOGRAFÍA
+
+THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 524-599).México: Pearson Educación de México, S.A. de C.V.
+
+
 
 
