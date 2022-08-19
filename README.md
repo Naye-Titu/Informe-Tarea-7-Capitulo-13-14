@@ -14,8 +14,21 @@ INFORME DE TAREA
 
 Objetivo General
 
+* Comprender el funcionamiento y aplicación de los inductores y transformadores dentro de circuitos eléctricos, para así lograr tener una visión clara de los principios de la electricidad y de las distintas formas en que se puede presentar un circuito eléctrico, así como las operaciones necesarias para calcular sus magnitudes y funcionamiento.
+
 Objetivos específicos.
 
+* Definir que es un inductor y como se comporta en un circuito.
+
+* Definir que es un transformador y como se comporta en un circuito.
+
+* Saber resolver problemas tanto del capitulo 13 como del capitulo 14.
+
+* Comprender como es la resolucion y el comportamiento que tiene los inductores en circuitos electricos.
+
+* Comprender como es la resolucion y el comportamiento que tiene los inductores en circuitos electricos.
+
+Resolver ejercicios con relacion a los capacitores, en la cual existen en corriende directo como tambien en corriente alterna
 
 2.- MARCO TEÓRICO
 
@@ -120,6 +133,10 @@ CAPÍTULO 14
 4.- VIDEO
 
 5.- CONCLUSIONES
+
+* Saber analizar lo que son conductores en serie y paralelo para que a la hora de resolver los ejercicios no haya error de calculo.
+
+* En la resolucion del capitulo 12 exisate nuevos componentes los cuales son los capacitos el cual existen fijos como tambien variables en funcion del tiempo, resolver estos ejercicios ayuda a tener un mejor entendimiento de lo que es un capacitor y como resolverlos dependiendo de cada circuito.
 
 6.- BIBLIOGRAFÍA
 
