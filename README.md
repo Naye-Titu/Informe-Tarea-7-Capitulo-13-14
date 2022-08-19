@@ -61,9 +61,39 @@ CAPÍTULO 14: TRASNFORMADORES
 CAPÍTULO 13
 -------------------------------------------------------------------------------------------------------
 
+![image](https://user-images.githubusercontent.com/105722861/185527354-f5879d24-01fe-4855-8946-17b364c0276a.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185527447-7a9c69f0-a70b-4489-8455-28b192236d97.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185527571-8076f487-08ac-4921-8acb-d17cf46919f5.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185527684-eafbcaca-4e85-4274-adfd-ba551ba3a770.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185527815-231b0b04-4da7-48c0-a4d5-f3d05a48b497.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185527915-792fdd72-1363-4d8b-8675-2ed50e08b5f9.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185528083-f003758a-fb2d-4f4c-b77e-3cf159e6e346.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185528171-e6af65cd-3761-42d3-bed7-72d516735179.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185528283-989982fd-0ad3-49de-b56f-728d9f7b6e56.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185528412-dbc5f9d7-e003-4461-a089-ec7710dd1d2f.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185528563-de54edf2-8eb2-4c59-8b79-17d939cf9def.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185528836-84cd4fd2-2744-43ae-b7d4-e6e6478f77ba.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185529033-b0f396e5-425d-4a88-ad19-42d2282627af.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185529108-60181e59-7d87-4de4-8287-ebb6dbc9e7ef.png)
+
 -------------------------------------------------------------------------------------------------------
 CAPÍTULO 14
 -------------------------------------------------------------------------------------------------------
+
+
 
 4.- VIDEO
 
