@@ -93,7 +93,29 @@ CAPÍTULO 13
 CAPÍTULO 14
 -------------------------------------------------------------------------------------------------------
 
+![image](https://user-images.githubusercontent.com/105722861/185529304-94c145e3-dccc-472e-9bc7-68ba4daf12f5.png)
 
+![image](https://user-images.githubusercontent.com/105722861/185529449-6ae21f03-6317-4392-b37d-bc47cdf1ab17.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185529516-cfc3e1b3-07cb-4c52-83c3-4f4482b7e0d2.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185529604-21f2b85e-a82b-4df9-9d4d-cc83dbf93298.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185529770-46c36c0d-2083-45b6-b88a-d5cda5c371a4.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185529981-ebd49fde-5e31-40a5-83d9-a3aa0f221fee.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185530150-6b9e05e7-ce7d-4b20-99c9-3f8bc48a510d.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185530362-07d50b74-fbfc-46a2-8765-0f6e98ae87a5.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185530448-882213dc-c6bf-479b-95be-275f9b22fd4c.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185530581-e09995ec-df50-49b6-a489-4eb7ae7b645e.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185530658-2c8e3004-be30-40bd-a517-9e164a58ffab.png)
+
+![image](https://user-images.githubusercontent.com/105722861/185530831-a85ee09c-dd46-4f38-9cd2-dfbecca2f9aa.png)
 
 4.- VIDEO
 
